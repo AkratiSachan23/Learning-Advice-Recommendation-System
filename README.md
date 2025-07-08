@@ -43,8 +43,8 @@ The logic is based on score thresholds:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/jayadhi-recommender.git
-cd jayadhi-recommender
+git clone https://github.com/your-username/Learning-Advice-Recommendation-System.git
+cd Learning-Advice-Recommendation-System
 ```
 2. Run App
 ```bash
